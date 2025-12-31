@@ -1,20 +1,80 @@
 [
   {
     "id": 1,
-    "imageUrl": "https://raw.githubusercontent.com/Vipul08092003/Aero/main/images/car1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/1.jpg",
     "category": "Nature & Landscape",
-    "isLocked": true
+    "isLocked": false
   },
   {
     "id": 2,
-    "imageUrl": "https://raw.githubusercontent.com/Vipul08092003/Aero/main/images/nature1.jpg",
-    "category": "Nature",
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/2.jpg",
+    "category": "Nature & Landscape",
     "isLocked": false
   },
   {
     "id": 3,
-    "imageUrl": "https://raw.githubusercontent.com/Vipul08092003/Aero/main/images/anime1.jpg",
-    "category": "Anime",
-    "isLocked": true
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/3.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/4.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/5.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/6.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/7.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/8.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/9.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/10.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/11.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/12.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/13.jpg",
+    "category": "Nature & Landscape",
+    "isLocked": false
   }
 ]
