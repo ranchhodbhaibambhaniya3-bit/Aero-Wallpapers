@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://raw.githubusercontent.com/Vipul08092003/Aero/main/images/car1.jpg",
+    "category": "Cars",
+    "isLocked": true
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://raw.githubusercontent.com/Vipul08092003/Aero/main/images/nature1.jpg",
+    "category": "Nature",
+    "isLocked": false
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://raw.githubusercontent.com/Vipul08092003/Aero/main/images/anime1.jpg",
+    "category": "Anime",
+    "isLocked": true
+  }
+]
