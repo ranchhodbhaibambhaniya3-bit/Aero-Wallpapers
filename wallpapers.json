@@ -21,7 +21,7 @@
     "id": 4,
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/4.jpg",
     "category": "Nature & Landscape",
-    "isLocked": false
+    "isLocked": true
   },
   {
     "id": 5,
@@ -63,7 +63,7 @@
     "id": 11,
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/11.jpg",
     "category": "Nature & Landscape",
-    "isLocked": false
+    "isLocked": true
   },
   {
     "id": 12,
