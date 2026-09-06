@@ -400,5 +400,17 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t12.jpg",
     "category": "Bhakti Temple",
     "isLocked": true
+  },
+  {
+    "id": 313,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t13.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 314,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t14.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": true
   }
 ]
