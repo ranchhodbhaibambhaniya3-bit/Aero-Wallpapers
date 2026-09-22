@@ -1,0 +1,44 @@
+name: Auto Notification
+
+on:
+  push:
+    paths:
+      - 'wallpapers.json'
+
+jobs:
+  send_notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Firebase Admin
+        run: npm install firebase-admin
+
+      - name: Send FCM Notification
+        env:
+          FIREBASE_KEY: ${{ secrets.FIREBASE_KEY }}
+        run: |
+          cat << 'EOF' > send.js
+          const admin = require("firebase-admin");
+          const serviceAccount = JSON.parse(process.env.FIREBASE_KEY);
+          admin.initializeApp({
+            credential: admin.credential.cert(serviceAccount)
+          });
+          const payload = {
+            notification: {
+              title: "Aero Wallpapers 🌟",
+              body: "Naya premium wallpaper add ho gaya hai! Abhi check karein."
+            },
+            topic: "all_users"
+          };
+          admin.messaging().send(payload)
+            .then(res => { console.log("Sent successfully:", res); process.exit(0); })
+            .catch(err => { console.error("Error:", err); process.exit(1); });
+          EOF
+          node send.js
