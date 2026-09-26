@@ -35,6 +35,13 @@ jobs:
               title: "Aero Wallpapers 🌟",
               body: "Naya premium wallpaper add ho gaya hai! Abhi check karein."
             },
+            // 🔥 YAHAN ANDROID KA ICON EXPLICITLY SET KIYA HAI
+            android: {
+              notification: {
+                icon: "ic_notification",
+                color: "#FFFFFF"
+              }
+            },
             topic: "all_users"
           };
           admin.messaging().send(payload)
