@@ -520,5 +520,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t26.jpg",
     "category": "Bhakti Temple",
     "isLocked": false
+  },
+  {
+    "id": 62,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/62.jpg",
+    "category": "Nature Landscape",
+    "isLocked": true
   }
 ]
