@@ -526,5 +526,41 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/62.jpg",
     "category": "Nature Landscape",
     "isLocked": true
+  },
+  {
+    "id": 327,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t27.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 328,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t28.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": true
+  },
+  {
+    "id": 329,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t29.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": true
+  },
+  {
+    "id": 330,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t30.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 331,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t31.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 332,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t32.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": true
   }
 ]
