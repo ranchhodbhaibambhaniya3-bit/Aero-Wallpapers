@@ -562,5 +562,35 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t32.jpg",
     "category": "Bhakti Temple",
     "isLocked": true
+  },
+  {
+    "id": 63,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/63.jpg",
+    "category": "Nature Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 64,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/64.jpg",
+    "category": "Nature Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 65,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/65.jpg",
+    "category": "Nature Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 66,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/66.jpg",
+    "category": "Nature Landscape",
+    "isLocked": false
+  },
+  {
+    "id": 67,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/67.jpg",
+    "category": "Nature Landscape",
+    "isLocked": false
   }
 ]
