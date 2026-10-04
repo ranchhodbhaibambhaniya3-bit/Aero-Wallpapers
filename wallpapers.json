@@ -592,5 +592,71 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/67.jpg",
     "category": "Nature Landscape",
     "isLocked": false
+  },
+  {
+    "id": 41001,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a1.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41002,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a2.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41003,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a3.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41004,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a4.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41005,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a5.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": true
+  },
+  {
+    "id": 41006,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a6.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": true
+  },
+  {
+    "id": 41007,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a7.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41008,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a8.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41009,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a9.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41010,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a10.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 41011,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/animals/a11.jpg",
+    "category": "Animals & Wildlife",
+    "isLocked": false
   }
 ]
