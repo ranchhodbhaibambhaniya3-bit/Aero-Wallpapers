@@ -658,5 +658,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/a11.jpg",
     "category": "Animals Wildlife",
     "isLocked": false
+  },
+  {
+    "id": 41012,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/s1.jpg",
+    "category": "Sports Athletic",
+    "isLocked": true
   }
 ]
