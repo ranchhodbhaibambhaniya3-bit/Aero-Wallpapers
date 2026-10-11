@@ -664,5 +664,41 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/s1.jpg",
     "category": "Sports Athletic",
     "isLocked": true
+  },
+  {
+    "id": 333,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t33.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 334,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t34.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 335,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t35.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 336,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t36.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 337,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t37.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
+  },
+  {
+    "id": 338,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/t38.jpg",
+    "category": "Bhakti Temple",
+    "isLocked": false
   }
 ]
