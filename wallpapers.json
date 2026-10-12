@@ -706,5 +706,35 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/s2.jpg",
     "category": "Sports Athletic",
     "isLocked": false
+  },
+  {
+    "id": 13101,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/a12.jpg",
+    "category": "Animals Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 13102,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/a13.jpg",
+    "category": "Animals Wildlife",
+    "isLocked": true
+  },
+  {
+    "id": 13103,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/a14.jpg",
+    "category": "Animals Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 13104,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/a15.jpg",
+    "category": "Animals Wildlife",
+    "isLocked": false
+  },
+  {
+    "id": 13105,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/a16.jpg",
+    "category": "Animals Wildlife",
+    "isLocked": false
   }
 ]
