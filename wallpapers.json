@@ -742,5 +742,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/s3.jpg",
     "category": "Sports Athletic",
     "isLocked": false
+  },
+  {
+    "id": 17112,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/q1.jpg",
+    "category": "Quotes Typography",
+    "isLocked": true
   }
 ]
