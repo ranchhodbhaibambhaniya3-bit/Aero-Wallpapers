@@ -754,5 +754,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/q2.jpg",
     "category": "Quotes Typography",
     "isLocked": true
+  },
+  {
+    "id": 11912,
+    "imageUrl": "https://raw.githubusercontent.com/ranchhodbhaibambhaniya3-bit/Aero-Wallpapers/main/images/q3.jpg",
+    "category": "Quotes Typography",
+    "isLocked": false
   }
 ]
